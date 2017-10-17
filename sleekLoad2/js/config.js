@@ -14,7 +14,7 @@ var l_serverImage = "logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -55,7 +55,7 @@ Multiple images will automatically shuffle between them
 var l_bgImages = [
 	"touhou01.jpg",
 	"touhou02.jpg",
-	"touhou03.jpg"
+	"touhou03.jpg",
 ];
 
 /*Random background images order?*/
