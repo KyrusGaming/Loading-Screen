@@ -55,7 +55,7 @@ Multiple images will automatically shuffle between them
 var l_bgImages = [
 	"vader.jpg",
 	"walker.jpg",
-	"moon.jpg",
+	"moon.jpg"
 ];
 
 /*Random background images order?*/
