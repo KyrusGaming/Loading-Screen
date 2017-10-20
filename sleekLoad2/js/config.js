@@ -90,8 +90,6 @@ Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
   	{ogg: "vadermarch.ogg", name: "Darth Vaders March"},
-	{youtube: "zA6wRutN_7Q", name: "Suwa-cafeteria"},
-	{youtube: "KtlKbE4qU0c", name: "月の妖鳥、化猫の幻"},
 ];
 
 /*Random music order?*/
