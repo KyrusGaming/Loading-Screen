@@ -57,7 +57,7 @@ var l_bgImages = [
 ];
 
 /*Random background images order?*/
-var l_bgImagesRandom = true;
+var l_bgImagesRandom = false;
 
 /*(Image-background only)
 Delay between background images changes
@@ -93,7 +93,7 @@ var l_musicPlaylist = [
 ];
 
 /*Random music order?*/
-var l_musicRandom = true;
+var l_musicRandom = false;
 
 /*Music volume
 Choose a value between 0 and 100*/
@@ -106,7 +106,6 @@ var l_messagesEnabled = true;
 var l_messages = [
 	"Enjoy the server",
 	"Thanks for joining us!",
-	"Did you know these backgrounds and songs are from Touhou?"
 ];
 
 /*Random message order?*/
