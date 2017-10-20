@@ -89,10 +89,8 @@ var l_musicDisplay = true;
 Place how much .ogg songs you want
 (Put the files in the songs folder)*/
 var l_musicPlaylist = [
-  	{ogg: "vadermarch.ogg", name: "Darth Vaders March"},  
-	{ogg: "test.ogg", name: "Theme Song"},
-	{ogg: "videoplayback.m4a", name: "Test"},
-	{m4a: "videoplayback.m4a", name: "Test2"},
+  	{ogg: "imperialmarch.m4a", name: "Imperial March"},  
+	{ogg: "themesong.m4a", name: "Theme Song"},
 ];
 
 /*Random music order?*/
