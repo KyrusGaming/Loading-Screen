@@ -95,7 +95,7 @@ var l_musicPlaylist = [
 ];
 
 /*Random music order?*/
-var l_musicRandom = false;
+var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
